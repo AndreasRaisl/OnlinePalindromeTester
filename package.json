@@ -1,0 +1,15 @@
+{
+  "name": "palindrometester",
+  "version": "1.0.0",
+  "description": "tests a phrase given by the user if it s a plaindrome or not. Uses a node module, importing it with require. ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andreas Raisl",
+  "license": "MIT",
+  "dependencies": {
+    "araisl-palindrome": "^0.1.1",
+    "ramda": "^0.26.1"
+  }
+}
